@@ -25,16 +25,19 @@ WORKFLOWS=(
 )
 
 CHECKPOINT_MODELS=(
+    "https://civitai.com/api/download/models/1262911?type=Model&format=SafeTensor&size=pruned&fp=fp32&token=4dc827605307fda5ecd82aad2afc9ea4"
+    "https://civitai.com/api/download/models/1152657?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=4dc827605307fda5ecd82aad2afc9ea4"
+    "https://civitai.com/api/download/models/142421?type=Model&format=SafeTensor&size=full&fp=fp16&token=4dc827605307fda5ecd82aad2afc9ea4"
     "https://civitai.com/api/download/models/1410435?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=4dc827605307fda5ecd82aad2afc9ea4"
-     "https://civitai.com/api/download/models/1356617?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=4dc827605307fda5ecd82aad2afc9ea4"
 )
 
 UNET_MODELS=(
+    "https://civitai.com/api/download/models/1356617?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=4dc827605307fda5ecd82aad2afc9ea4"
+    "https://civitai.com/api/download/models/1172273?type=Model&format=SafeTensor&size=pruned&fp=fp32&token=4dc827605307fda5ecd82aad2afc9ea4"
+    "https://civitai.com/api/download/models/1648546?type=Model&format=SafeTensor&size=pruned&fp=bf16&token=4dc827605307fda5ecd82aad2afc9ea4"
 )
 
 LORA_MODELS=(
-    "https://civitai.com/api/download/models/1346556?type=Model&format=SafeTensor&token=4dc827605307fda5ecd82aad2afc9ea4"
-    "https://civitai.com/api/download/models/1609818?type=Model&format=SafeTensor&token=4dc827605307fda5ecd82aad2afc9ea4"
 )
 
 VAE_MODELS=(
@@ -45,8 +48,6 @@ ESRGAN_MODELS=(
 )
 
 CONTROLNET_MODELS=(
-    "https://civitai.com/api/download/models/1648546?type=Model&format=SafeTensor&size=pruned&fp=bf16&token=4dc827605307fda5ecd82aad2afc9ea4"
-)
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
